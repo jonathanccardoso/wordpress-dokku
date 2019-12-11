@@ -1,6 +1,5 @@
 # Wordpress with Dokku
 
-ass
 
 Features to deploy and work with Wordpress and Dokku:
      
