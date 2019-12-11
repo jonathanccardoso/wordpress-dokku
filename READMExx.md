@@ -1,5 +1,7 @@
 # Wordpress with Dokku
 
+ass
+
 Features to deploy and work with Wordpress and Dokku:
      
 - automatic backups of the WP database and files, including plugins, themes, uploads and customizations.
